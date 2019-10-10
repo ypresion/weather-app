@@ -1,0 +1,29 @@
+body, html {
+    width: 100%;
+    margin: 0;
+    font-family: 'VT323', monospace;
+}
+
+main {
+    width: 55vw;
+    padding: .75em 0 0 .75em;
+    font-size: 2em;
+}
+
+h1, p {
+    margin: 0;
+}
+
+.bottom {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+#city p {
+    font-size: 1.75em;
+    letter-spacing: 8px;
+    color: gray;
+    margin: 1em 0;
+}
